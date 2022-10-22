@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: poppins, sans-serif;
+}
+
+.woman{
+    margin-top: 99px;
+    margin-left: 320px;
+    margin-right: 320px;
+    width: 1280px;
+    height: 667px;
+    background: url(./images/about-image.png) no-repeat right;  
+}
+.woman h1{
+    font-size: 3rem;
+    width: 596px;
+    height: 157px;
+}
+#text{
+    margin-top: 32px;
+    font-size: 1.125rem;
+    height: 120px;
+    width: 510px;
+}
+.woman h2{
+    font-size: 2.25rem;
+    color: #F58A07;
+    display: inline-block;
+    padding-right: 224px;
+}
+.woman h3{
+    margin-top: 16px;
+    font-size: 1.5rem;
+    display: inline-block;  
+    padding-right: 95px;
+}
+#text2 {
+    display: inline-block;
+    width: 264px;
+    height: 84px;
+    margin-top: 16px;
+}
+.help{
+    background: #EDF7FF;
+    border-radius: 20px;
+    margin: 0 320;
+    width: 1274.39px;
+    height: 682px;
+}
+/* #business{
+    display: flex;
+    margin: 48px;
+} */
+.helping{
+    /* width: 510px; */
+    height: 210px;
+    margin-left: 48px;
+    margin-top: 168px;
+}
+#link{
+    margin-top: 40px;
+}
